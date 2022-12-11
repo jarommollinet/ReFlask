@@ -1,0 +1,147 @@
+.scratchtop{
+    color: forestgreen !important;
+    -webkit-text-stroke: white !important;
+    background-color: antiquewhite !important;
+}
+.scratchfooter{
+    margin-bottom: 0% !important;
+    position: fixed;
+    left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+    
+}
+
+.tableauformat{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-weight: 400;
+    width: fit-content;
+    height: 25%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 14px;
+    position: relative;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableaubox{
+    text-align: center;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.scratchheader{
+    color: red;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    display: block;
+    left: auto;
+    right: auto;
+    -webkit-text-stroke: 3px rgb(255, 255, 255);
+}
+
+.youtubebox{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-weight: 400;
+    width: 50%;
+    height: 25%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 14px;
+    position: relative;
+    margin-bottom: 25px;
+    margin-left: 8%;
+    margin-right: auto;
+}
+
+.youtube{
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.scratchtext{
+    color: aliceblue;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    display: block;
+    left: auto;
+    right: auto;
+    text-shadow: -1px 1px 0 #000;
+}
+
+.scratchbackground{
+    background-image: url(https://media.istockphoto.com/id/1175685070/photo/full-body-photo-of-overweight-carefree-delightful-ecstatic-active-energetic-listening-hip-hop.jpg?s=612x612&w=0&k=20&c=TdCjL00tUVxkxbMRfw4GyP8y-xnG48HrQ4J_uSuE5GA=);
+}
+
+.listheader{
+    text-align: center;
+    color: red;
+}
+.scratchlist{
+    color: forestgreen;
+    font-family: cursive;
+    text-align: left;
+    width: 60%;
+    height: 25%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 14px;
+    position: relative;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: 8%;
+}
+
+.pictureformat{
+    width: 50%;
+    height: auto;
+    border: 3px red dotted;
+    border-radius: 200px;
+}
+
+.picturebox{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 400;
+    width: 60%;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 14px;
+    position: relative;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scratchbutton{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    width: 20%;
+    height: auto;
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: solid forestgreen 4px;
+}

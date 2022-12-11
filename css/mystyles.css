@@ -1,0 +1,83 @@
+.myfont{
+    color: aliceblue !important;
+    font-size: 100px !important;
+}
+
+.mysubfont{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: rgb(197, 173, 39) !important;
+}
+
+.pricefont{
+    color: rgb(179, 153, 12);
+}
+.mynavbar{
+    background-color: rgb(4, 45, 92) !important;
+    color: aliceblue !important;
+}
+.topmargin{
+    margin-top: 0% !important;
+}
+
+.mycontainercolor{
+    background-color: rgb(188, 227, 255) !important;
+    border: 4px solid;
+    border-radius: 5px;
+    border-color: rgb(197, 173, 39);
+    padding: 5px ;
+}
+
+.contentcontainer{
+    background-color: rgb(188, 227, 255) !important;
+}
+
+.mycontainerborder{
+    background-color: rgb(29, 92, 199);
+}
+.bgdark{
+    background-color: rgb(12, 76, 148);
+}
+
+.buttondark{
+    background-color: rgb(12, 76, 148);
+    color: aliceblue;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid;
+    border-color: rgb(12, 76, 148);
+    
+}
+.buttonextra{
+    margin: 20px;
+}
+
+.myitalics{
+    font-style: italic;
+}
+
+.mysizing{
+    max-width: 58% !important;  
+}
+
+.aboutimage{
+    width: auto;
+}
+
+.smallersizing{
+    max-width: 50% !important;
+}
+
+.mymargins{
+    margin-top: 100px;
+    width: 80%;
+    left: 30px;
+    
+}
+
+.boldtext{
+    font-weight: bold;
+}
+
+.resumemargin{
+    text-align: left;
+}
